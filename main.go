@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"koshabot/config"
+	"github.com/randomtoy/go-randomphrases-telegram-bot/koshabot/config"
 )
 
 func main() {

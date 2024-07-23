@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"../internal/config"
+	"koshabot/config"
 )
 
 func main() {
